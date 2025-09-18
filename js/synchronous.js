@@ -1,18 +1,4 @@
-// const add =(a,b)=>a+b
-// function sum(a,b)
-// {
-//     console.log("Before return");
-//     return(a+b);
-//     console.log("after return");
-// }
-// console.log(sum(10,20))
 
-//Asynchronous programing.........
-//register()
-//send Email()
-//login()
-//getdata()
-//display data()
 
 //callback hell...
 /*function waitfortwoseconds()
