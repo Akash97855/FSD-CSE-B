@@ -1,0 +1,12 @@
+const image=document.createElement("img");
+image.src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKsgO47E6VXBBWfMs9uF9NpcxkGrqAnDRDQ&s";
+image.width="150";
+image.height="150";
+const h4=document.createElement("h4");
+h4.innerText="price: 125/-";
+const child= document.createElement("div");
+child.className="card";
+child.appendChild(image);
+child.appendChild(h4);
+const parent=document.getElementById("root");
+parent.appendChild(child);
