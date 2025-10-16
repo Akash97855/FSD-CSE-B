@@ -1,0 +1,9 @@
+const a=num[0];
+const b=num[1];
+const c=num[2];
+const d=num[3];
+const e=num[4];
+const[f,s,...rest]=num;
+const obj={name:"abc",id:2,email:'ab@gmail.com'}
+const {name,...other}=obj;
+const arr=[1,]

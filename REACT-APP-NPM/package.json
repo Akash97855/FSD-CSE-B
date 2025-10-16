@@ -1,0 +1,21 @@
+{
+  "name": "react-app-npm",
+  "version": "1.0.0",
+  "description": "first react app",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "label": "^0.2.2",
+    "parcel": "^2.16.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
+
